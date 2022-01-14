@@ -1,1 +1,49 @@
+body {
+  background: #FFF8DC;
+  color: #fff;
+  padding: 25px;
+  font-family: 'Rooney',sans-serif;
+}
 
+div ul{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+}
+
+header {
+  background-color: #DDA0DD;
+  height: 82px;
+  padding: 4px;
+}
+
+header h1 {
+  text-transform: uppercase;
+  text-align: ceter;
+  color: #fff;
+  line-height: 50px;
+}
+
+header h2 {
+font-variant: small-caps;
+text-align: center;
+color: #fff;
+}
+
+ul {
+  padding: 5px 0 5px 0;
+  text-align: center;
+  line-height: 32px;
+  background-color: #FFD700;
+}
+ div h1{
+   color: black;
+   font-family: monospace;
+ }
+
+ div p{
+   color: black;
+   font-family: monospace;
+   font-size: 17px;
+ }
