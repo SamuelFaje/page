@@ -1,15 +1,16 @@
 body {
-  background: #FFF8DC;
+  background: #FFFDD0;
   color: #fff;
   padding: 25px;
-  font-family: 'Rooney',sans-serif;
+  font-family: sans-serif;
 }
 
 div ul{
-  display: flex;
+  display: flex;/*to align nav bar items*/
   justify-content: space-between;
   align-items: center;
   list-style: none;
+  text-decoration: none;
 }
 
 header {
@@ -35,7 +36,10 @@ ul {
   padding: 5px 0 5px 0;
   text-align: center;
   line-height: 32px;
-  background-color: #FFD700;
+  background-color: #E6E6FA;
+  color: black;
+  text-decoration: none;
+  font-size: 24px;
 }
  div h1{
    color: black;
@@ -44,6 +48,103 @@ ul {
 
  div p{
    color: black;
-   font-family: monospace;
    font-size: 17px;
  }
+
+ ul li a{
+   text-decoration: none; /*used to take away underlining on nav bar links*/ 
+ }
+
+ img{
+   width: 1625px;
+   height: 700px;
+   object-fit: fill;
+   float: middle;
+ }
+
+ h2{
+   color: black;
+   font-family: 'Arial',sans-serif;
+   font-size: 20px;
+ }
+ 
+ div p2{
+   color: black;
+   text-align: left;
+   display: inline-block;
+ } 
+
+ h1{
+   font-size: 35px;
+ }
+
+p3{
+  color: black;
+}
+
+p4{
+  color:black;
+}
+
+p5{
+  color: black;
+}
+
+p6{
+  color:black;
+}
+
+p7{
+  color:black;
+}
+
+p8{
+  color: black;
+}
+
+h2{
+  color: black;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+h3{
+  color: black;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+h4{
+  color: black;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+h5{
+  color: black;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+h6{
+  color: black;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+h8{
+  color: black;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+
+h10{
+  color: black;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+p10{
+  color: black;
+}
