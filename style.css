@@ -7,7 +7,7 @@ body {
 
 div ul{
   display: flex;/*to align nav bar items*/ 
-  justify-content: space-between;
+  justify-content: space-between; 
   align-items: center;
   list-style: none;
   text-decoration: none;
