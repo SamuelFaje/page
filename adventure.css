@@ -1,0 +1,79 @@
+body {
+  background: #C0C0C0;
+  color: #fff;
+  padding: 25px;
+  font-family: sans-serif;
+}
+
+div ul{
+  display: flex;
+  justify-content: space-between;/* To give each navbar item there own space, or jus seperating them*/
+  align-items: center;
+  list-style: none;
+}
+
+header {
+  background-color: #FF00FF;
+  height: 82px; 
+  padding: 4px;
+}
+
+header h1 {
+  text-transform: uppercase;
+  text-align: ceter;
+  color: #fff;
+  line-height: 50px;
+}
+
+header h2 {
+font-variant: small-caps;
+text-align: center;
+color: #fff;
+}
+
+img{
+  width: 1625px;
+   height: 700px;
+   object-fit: fill;
+}
+
+ul {
+  padding: 5px 0 5px 0;
+  text-align: center;
+  line-height: 32px;
+  background-color: #00FF00;
+  color: black;
+}
+ div h1{
+   color: black;
+   font-family: monospace;
+ }
+
+ div p{
+   color: black;
+   font-family: ;
+   font-size: 17px;
+ }
+
+ ul li a{
+   text-decoration: none;/*used to take away underlining*/
+ }
+
+ h2{
+   background-color: black;
+   font-size: 35px;
+ }
+
+ h3{
+   color:black;
+   font-size: 35px;
+ }
+
+ h4{
+   color:black;
+   font-size: 35px;
+ }  
+
+ p{
+   color: black;
+ }
